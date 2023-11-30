@@ -9,13 +9,13 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  [(https://github.com/Yashas-DR/QuickCraft_frontend.git)]
+  https://github.com/Yashas-DR/QuickCraft_frontend.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd QuickCraft_frontend
 ```
 
 Install dependencies
